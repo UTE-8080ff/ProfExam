@@ -15,5 +15,5 @@
 - Работа с хеш-таблицами
 
 ## Установка
-Установить проект можно с помощью команды
-'git clone https://github.com/UTE-8080ff/ProfExam'
+- Установить проект можно с помощью команды
+- 'git clone https://github.com/UTE-8080ff/ProfExam'
